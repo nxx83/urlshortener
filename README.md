@@ -11,4 +11,4 @@ API :
 /shorten?url={url}
 /expand?url={shortened_url}
 
-
+LIMIT OF MAX URLS IN DB == 50
